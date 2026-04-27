@@ -1,16 +1,23 @@
-## Hi there 👋
+# Abdullah Gamal
 
-<!--
-**Abdullah-Gamal-AG/Abdullah-Gamal-AG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+First-year Computer Science student at Cairo University, building a strong foundation in software development and problem solving.
 
-Here are some ideas to get you started:
+## About Me
+- Computer Science student focused on continuous learning and practical projects
+- Interested in programming fundamentals, clean code, and improving every day
+- Open to collaboration and learning from other developers
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- Languages: Python, C++, C#
+- Core Focus: Problem solving, algorithms, and programming fundamentals
+
+## Current Goals
+- Strengthen data structures and algorithms knowledge
+- Build small but complete projects to grow my portfolio
+- Learn best practices for writing clean, maintainable code
+
+## GitHub Profile Summary
+I use this profile to share my learning journey, projects, and progress as a CS student.
+
+## Contact
+- LinkedIn: [Abdullah Gamal](https://www.linkedin.com/in/abdullah-gamal-85a398374)
