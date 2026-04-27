@@ -20,4 +20,4 @@ First-year Computer Science student at Cairo University, building a strong found
 I use this profile to share my learning journey, projects, and progress as a CS student.
 
 ## Contact
-- LinkedIn: [Abdullah Gamal](https://www.linkedin.com/in/abdullah-gamal-85a398374)
+- LinkedIn: [Abdullah Gamal](www.linkedin.com/in/abdullah-gamal-a404g)
