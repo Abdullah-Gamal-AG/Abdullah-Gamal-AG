@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah-gamal-ag&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah-gamal-ag" /> </p>
 
-- 🌱 I'm currently learning **Network**
+- 🌱 I'm currently learning **Machine Learning**
 
 - 📫 How to reach me **abdullahgamal784@gmail.com**
 
