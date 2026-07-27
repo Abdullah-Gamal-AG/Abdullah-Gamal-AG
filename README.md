@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **abdullahgamal784@gmail.com**
 
-- 📄 **Resume:** [View My CV](https://drive.google.com/file/d/1IdZxqPG7RRmDatkAtEdti47V2yaJgUY-/view?usp=drive_link)
+- 📄 **Resume:** [View My CV](https://drive.google.com/file/d/15iay4mYAnSe-BN5drNuWXy_ea44A3W5b/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
